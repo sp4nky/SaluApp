@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--Estado pulsado-->
+    <item android:drawable="@drawable/ic_record2" android:state_pressed="true"/>
+    <!--Estado normal-->
+
+    <item android:drawable="@drawable/ic_record1"/>
+
+</selector>
+<!-- From: file:/C:/Users/Lau/AndroidStudioProjects/SaluApp(BaseVieja)/SaluApp/app/src/main/res/drawable/botonpulsado.xml -->

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Salu</string>
+    <string name="boton_volver">Volver</string>
+    <string name="title_activity_menu_principal">Menu</string>
+    <string name="prompt_email">Correo</string>
+    <string name="btn_todas_las_solicitudes">Solicitudes</string>
+    <string name="btn_mis_solicitudes">Agenda</string>
+    <string name="btn_stock_disponible">Stock Disponible</string>
+    <string name="salir">Cerrar Sesion</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Iniciar Sesion</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="title_activity_todas_solicitudes">Solicitudes</string>
+    <string name="title_activity_mis_solicitudes">Agenda</string>
+    <string name="title_activity_detalles_solicitud">Detalles</string>
+    <string name="title_activity_maps">Mapa</string>
+    <string name="title_activity_stock_disponible">Stock Disponible</string>
+    <string name="title_activity_inicio_sesion">Inicio de Sesion</string>
+    <string name="error_invalid_email">El correo es invalido</string>
+    <string name="error_invalid_password">Contraseña es demasiado corta</string>
+    <string name="error_incorrect_password">Contraseña incorrecta</string>
+    <string name="error_field_required">Campo requerido</string>
+    <string name="title_activity_perfil">Perfil</string>
+</resources>

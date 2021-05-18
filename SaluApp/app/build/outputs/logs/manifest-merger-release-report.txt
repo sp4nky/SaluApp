@@ -1,0 +1,461 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:2:1-81:12
+	package
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml
+permission#com.myapp.android.locationapi.maps.permission.MAPS_RECEIVE
+ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:5:5-7:47
+	android:protectionLevel
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:7:9-44
+	android:name
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:6:9-82
+uses-feature#0x00020000
+ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:9:5-11:35
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:24:5-26:33
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:24:5-26:33
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:24:5-26:33
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:24:5-26:33
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:24:5-26:33
+	android:glEsVersion
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:10:9-41
+	android:required
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:11:9-32
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:13:5-71
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:21:5-70
+	android:name
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:13:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:14:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:15:5-72
+	android:name
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:15:22-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:16:5-67
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:16:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:17:5-79
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:18:5-81
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:22:5-80
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:22:5-80
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:22:5-80
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:22:5-80
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:18:22-78
+uses-permission#com.myapp.android.locationapi.maps.permission.MAPS_RECEIVE
+ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:19:5-98
+	android:name
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:19:22-95
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:20:5-98
+	android:name
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:20:22-95
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:21:5-71
+	android:name
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:21:22-68
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:26:5-81
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:23:5-80
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:23:5-80
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:23:5-80
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:23:5-80
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:26:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:27:5-79
+	android:name
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:27:22-76
+application
+ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:29:5-79:19
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appstate:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:22.0.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:32:9-41
+	android:allowBackup
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:30:9-35
+	android:icon
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:31:9-45
+	android:theme
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:33:9-40
+activity#uy.com.salu.www.saluapp.MenuPrincipal
+ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:34:9-37:20
+	android:label
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:36:13-66
+	android:name
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:35:13-42
+activity#uy.com.salu.www.saluapp.TodasSolicitudes
+ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:38:9-41:20
+	android:label
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:40:13-69
+	android:name
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:39:13-45
+activity#uy.com.salu.www.saluapp.MisSolicitudes
+ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:42:9-45:20
+	android:label
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:44:13-67
+	android:name
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:43:13-43
+activity#uy.com.salu.www.saluapp.DetallesSolicitud
+ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:46:9-49:20
+	android:label
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:48:13-70
+	android:name
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:47:13-46
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:51:9-53:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:53:13-66
+	android:name
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:52:13-58
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:54:9-56:71
+	android:value
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:56:13-68
+	android:name
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:55:13-62
+activity#uy.com.salu.www.saluapp.StockDisponible
+ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:58:9-61:20
+	android:label
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:60:13-68
+	android:name
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:59:13-44
+activity#uy.com.salu.www.saluapp.InicioSesion
+ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:62:9-70:20
+	android:label
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:64:13-45
+	android:name
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:63:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:65:13-69:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:66:17-69
+	android:name
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:66:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:68:17-77
+	android:name
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:68:27-74
+activity#uy.com.salu.www.saluapp.Ajustes
+ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:71:9-74:20
+	android:label
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:73:13-52
+	android:name
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:72:13-36
+activity#uy.com.salu.www.saluapp.Perfil
+ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:75:9-78:20
+	android:label
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:77:13-58
+	android:name
+		ADDED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:76:13-35
+uses-sdk
+INJECTED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appstate:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-cast:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:22.0.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-fitness:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-location:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:28:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-games:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-gcm:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-location:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:28:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:28:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-panorama:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-plus:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:28:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-wearable:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-fitness:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-location:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:28:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-wearable:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:30:19-91
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\src\main\AndroidManifest.xml:2:1-81:12 reason: com.google.android.gms.maps requested WRITE_EXTERNAL_STORAGE
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:22:5-73
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:22:22-71
+meta-data#com.google.android.gms.wallet.api.enabled
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:25:9-27:36
+	android:value
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:27:13-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:26:13-69
+receiver#com.google.android.gms.wallet.EnableWalletOptimizationReceiver
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:28:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:29:13-90
+intent-filter#com.google.android.gms.wallet.ENABLE_WALLET_OPTIMIZATION
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:31:13-33:29
+action#com.google.android.gms.wallet.ENABLE_WALLET_OPTIMIZATION
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:32:17-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\Lau\AndroidStudioProjects\SaluApp(BaseVieja)\SaluApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:32:25-96

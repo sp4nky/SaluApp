@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context="uy.com.salu.www.saluapp.TodasSolicitudes">
+
+    <!--
+        <item
+        android:id="@+id/ic_tuerca"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_tuerca_menu"
+        android:title="ajustes"/>
+            
+            -->
+    <item
+        android:id="@+id/ic_perfil"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_perfil"
+        android:title="perfil"/>
+
+
+    <item
+        android:id="@+id/ic_retroceso"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_retroceso"
+        android:title="volver"/>
+
+
+</menu>

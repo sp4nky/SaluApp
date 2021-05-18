@@ -1,0 +1,23 @@
+<!--
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="uy.com.salu.www.saluapp.InicioSesion">
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>
+-->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools" tools:context="uy.com.salu.www.saluapp.MenuPrincipal">
+
+
+    <item
+        android:id="@+id/ic_tuerca"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_tuerca_menu"
+        android:title="ajustes"/>
+
+</menu>
+<!-- From: file:/C:/Users/Lau/AndroidStudioProjects/SaluApp(BaseVieja)/SaluApp/app/src/main/res/menu/menu_inicio_sesion.xml -->
